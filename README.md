@@ -4,7 +4,7 @@
 ## Description
 100 People - Handwriting OCR Data of Japanese and Korean,. This dadaset was collected from 100 subjects including 50 Japanese, 49 Koreans and 1 Afghan. For different subjects, the corpus are different. The data diversity includes multiple cellphone models and different corpus. This dataset can be used for tasks, such as handwriting OCR data of Japanese and Korean.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/127?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/127?source=Github
 
 
 ## Data size
